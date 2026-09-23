@@ -114,8 +114,8 @@ This page analyzes customer and regional performance.
 ---
 
 ## 📷 Dashboard Preview
+<img width="1080" height="1389" alt="WhatsApp Image 2026-09-23 at 12 47 42 PM" src="https://github.com/user-attachments/assets/1d39b2a3-e4c1-400d-861e-5e5ae3375eef" />
 
-![Sales Dashboard](dashboard.png)
 
 ---
 
