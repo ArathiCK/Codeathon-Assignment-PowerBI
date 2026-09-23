@@ -122,7 +122,9 @@ This page analyzes customer and regional performance.
 
 - `Sales Dashboard.pbix` – Power BI dashboard file
 - `README.md` – Project documentation
-- `dashboard.png` – Dashboard preview
+- `dashboard-overview.png` – Dashboard overview preview
+- `dashboard-customers.png` – Dashboard customers preview
+- `dashboard-products.png` – Dashboard products preview
 
 ---
 
